@@ -1,4 +1,4 @@
-# Neural_Networks
+# Handwriting Recognition Model For Scanned Medical Documents
 **Handwriting Recognition Model**
 **Overview**:
 
